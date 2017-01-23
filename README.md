@@ -13,5 +13,5 @@ This program was never completed because of my lack of skills, time, and the com
 I hope to salvage the design of the pieces some day, and the idea. The logic, however probably won't make it.
 
 ## Glix10:
-![Glix10 Screen Capture](zFantastic2.JPG)
+![Glix10 Screen Capture](zFantastic2.JPG?raw=true "GLIX10")
 This is the piece that really kicked it off for me. The image above is a screenshot from the live video. 
